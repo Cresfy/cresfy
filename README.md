@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Matt</h1>
+<h1 align="center">Hello, my name is Matt!</h1>
 <h3 align="center">Software Engineer from Ohio</h3>
 
-- Hi my name is Matt! I'm from Ohio and I'm looking to start my career into IT.
+- Looking to start my career into IT
 
 - I’m currently learning **Python**
 
