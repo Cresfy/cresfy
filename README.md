@@ -3,9 +3,7 @@
 
 - Looking to start my career into IT as soon as possible
 
-- I'm best with **Lua**
-
-- I’m currently learning **Python**
+- I'm best with **Lua**, learning **Python**
 
 - Pick up and learn things very quickly
 
