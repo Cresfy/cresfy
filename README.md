@@ -1,6 +1,9 @@
 <h1 align="center">Hello, my name is Matt!</h1>
 <h3 align="center">Software Engineer from Ohio</h3>
 
+- Why the username "Cresfy"?
+  I don't like disclosing a lot of personal information publicly on platforms such as Twitter, GitHub, Instagram, etc. I've learned overtime how sensitive basic         information is and how people can use that maliciously.
+
 - Looking to start my career into IT as soon as possible
 
 - I'm best with **Lua**, learning **Python**
